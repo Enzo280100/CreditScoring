@@ -32,7 +32,11 @@ El programa tiene un total de 36 horas de dictado divididas en 18 sesiones. El c
 * Sesión 18. Caso Integrador Final.
 
 ## Requisitos
-- Conocimientos de Estadística Descriptiva e Inferencial
-- Conocimientos de 
+- Conocimientos de Estadística Descriptiva e Inferencial, Matemáticas y Programación
 - Python 3.11 o superior
+
+## Autor
+- Enzo Infantes Zúñiga
+- enzo.infantes28@gmail.com
+- https://www.linkedin.com/in/enzo-infantes/
 
